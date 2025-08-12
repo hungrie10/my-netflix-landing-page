@@ -1,0 +1,322 @@
+[
+  {
+    "id": 0,
+    "name": "All of Us",
+    "image": "img/all_of_us.jpg",
+    "vid": "",
+    "p": "A heartfelt drama about a group of friends navigating love, loss, and loyalty.",
+    "year": 2017
+  },
+  {
+    "id": 1,
+    "name": "Boarders",
+    "image": "img/boarders.jpg",
+    "vid": "",
+    "p": "A coming-of-age story following teenagers chasing dreams on and off the skate ramp.",
+    "year": 2021
+  },
+  {
+    "id": 2,
+    "name": "Far from Home",
+    "image": "img/far_from_home.jpg",
+    "vid": "",
+    "p": "An adventure-filled journey of a young traveler discovering secrets in a distant city.",
+    "year": 2019
+  },
+  {
+    "id": 3,
+    "name": "XO Kitty",
+    "image": "img/xo_kitty.jpg",
+    "vid": "",
+    "p": "A romantic comedy about love letters, new beginnings, and unexpected twists.",
+    "year": 2023
+  },
+  {
+    "id": 4,
+    "name": "90s Show",
+    "image": "img/90s_show.jpg",
+    "vid": "",
+    "p": "A nostalgic comedy celebrating friendship, music, and life in the 1990s.",
+    "year": 2015
+  },
+  {
+    "id": 5,
+    "name": "The Hidden Truth",
+    "image": "img/all_of_us.jpg",
+    "vid": "",
+    "p": "A suspenseful mystery about a family secret that changes everything.",
+    "year": 2014
+  },
+  {
+    "id": 6,
+    "name": "City of Stars",
+    "image": "img/boarders.jpg",
+    "vid": "",
+    "p": "A dazzling drama set in a bustling city of dreams and heartbreak.",
+    "year": 2010
+  },
+  {
+    "id": 7,
+    "name": "The Long Journey",
+    "image": "img/far_from_home.jpg",
+    "vid": "",
+    "p": "A road trip tale that turns into an unforgettable life lesson.",
+    "year": 2005
+  },
+  {
+    "id": 8,
+    "name": "Love & Letters",
+    "image": "img/xo_kitty.jpg",
+    "vid": "",
+    "p": "A romantic drama about unexpected love through handwritten letters.",
+    "year": 2020
+  },
+  {
+    "id": 9,
+    "name": "Retro Days",
+    "image": "img/90s_show.jpg",
+    "vid": "",
+    "p": "A retro-style comedy packed with nostalgia and laughter.",
+    "year": 1999
+  },
+  {
+    "id": 10,
+    "name": "Edge of Tomorrow",
+    "image": "img/all_of_us.jpg",
+    "vid": "",
+    "p": "An action-packed story about fighting against fate.",
+    "year": 2018
+  },
+  {
+    "id": 11,
+    "name": "Skater Dreams",
+    "image": "img/boarders.jpg",
+    "vid": "",
+    "p": "The inspiring journey of a young skater aiming for glory.",
+    "year": 2012
+  },
+  {
+    "id": 12,
+    "name": "Beyond the Horizon",
+    "image": "img/far_from_home.jpg",
+    "vid": "",
+    "p": "A sea voyage where the crew discovers more than they expected.",
+    "year": 1997
+  },
+  {
+    "id": 13,
+    "name": "Dear Kitty",
+    "image": "img/xo_kitty.jpg",
+    "vid": "",
+    "p": "A lighthearted comedy with plenty of twists and love triangles.",
+    "year": 2024
+  },
+  {
+    "id": 14,
+    "name": "Back to the 90s",
+    "image": "img/90s_show.jpg",
+    "vid": "",
+    "p": "A trip back in time to when life was simpler and funnier.",
+    "year": 2003
+  },
+  {
+    "id": 15,
+    "name": "The Reunion",
+    "image": "img/all_of_us.jpg",
+    "vid": "",
+    "p": "A group of old friends reunites to face their shared past.",
+    "year": 2009
+  },
+  {
+    "id": 16,
+    "name": "Boardwalk Nights",
+    "image": "img/boarders.jpg",
+    "vid": "",
+    "p": "Romance and rivalry on a neon-lit summer boardwalk.",
+    "year": 2015
+  },
+  {
+    "id": 17,
+    "name": "Far From Reality",
+    "image": "img/far_from_home.jpg",
+    "vid": "",
+    "p": "A young man discovers a portal to another world.",
+    "year": 1995
+  },
+  {
+    "id": 18,
+    "name": "Kitty’s Secret",
+    "image": "img/xo_kitty.jpg",
+    "vid": "",
+    "p": "An unexpected secret changes everything for a young couple.",
+    "year": 2011
+  },
+  {
+    "id": 19,
+    "name": "90s Groove",
+    "image": "img/90s_show.jpg",
+    "vid": "",
+    "p": "A music-filled journey through the best hits of the 90s.",
+    "year": 2001
+  },
+  {
+    "id": 20,
+    "name": "True Colors",
+    "image": "img/all_of_us.jpg",
+    "vid": "",
+    "p": "A drama about self-discovery and accepting who you are.",
+    "year": 2016
+  },
+  {
+    "id": 21,
+    "name": "Kickflip Kings",
+    "image": "img/boarders.jpg",
+    "vid": "",
+    "p": "An inspiring documentary-style story of skateboard champions.",
+    "year": 2023
+  },
+  {
+    "id": 22,
+    "name": "Homeward Bound",
+    "image": "img/far_from_home.jpg",
+    "vid": "",
+    "p": "The emotional journey of returning home after many years.",
+    "year": 1998
+  },
+  {
+    "id": 23,
+    "name": "XO Forever",
+    "image": "img/xo_kitty.jpg",
+    "vid": "",
+    "p": "A heartwarming romcom about friendship and lasting love.",
+    "year": 2019
+  },
+  {
+    "id": 24,
+    "name": "That 90s Summer",
+    "image": "img/90s_show.jpg",
+    "vid": "",
+    "p": "A summer adventure filled with 90s fashion and music.",
+    "year": 1993
+  },
+  {
+    "id": 25,
+    "name": "Family Ties",
+    "image": "img/all_of_us.jpg",
+    "vid": "",
+    "p": "Generations collide in a heartfelt family drama.",
+    "year": 2010
+  },
+  {
+    "id": 26,
+    "name": "Ride or Die",
+    "image": "img/boarders.jpg",
+    "vid": "",
+    "p": "Two friends chase their dream of becoming pro skaters.",
+    "year": 2008
+  },
+  {
+    "id": 27,
+    "name": "Far Away Shores",
+    "image": "img/far_from_home.jpg",
+    "vid": "",
+    "p": "An epic journey across seas and through storms.",
+    "year": 2017
+  },
+  {
+    "id": 28,
+    "name": "Kitty’s Letter",
+    "image": "img/xo_kitty.jpg",
+    "vid": "",
+    "p": "One letter changes the course of two people’s lives.",
+    "year": 2013
+  },
+  {
+    "id": 29,
+    "name": "90s Vibes",
+    "image": "img/90s_show.jpg",
+    "vid": "",
+    "p": "A dance-filled comedy celebrating the 90s culture.",
+    "year": 2004
+  },
+  {
+    "id": 30,
+    "name": "All of Us Again",
+    "image": "img/all_of_us.jpg",
+    "vid": "",
+    "p": "The sequel to a beloved drama of love and friendship.",
+    "year": 2022
+  },
+  {
+    "id": 31,
+    "name": "Boarders United",
+    "image": "img/boarders.jpg",
+    "vid": "",
+    "p": "A skate crew must unite to save their local park.",
+    "year": 2018
+  },
+  {
+    "id": 32,
+    "name": "Home in My Heart",
+    "image": "img/far_from_home.jpg",
+    "vid": "",
+    "p": "A heartfelt journey of rediscovering what home really means.",
+    "year": 1996
+  },
+  {
+    "id": 33,
+    "name": "XO Kitty Returns",
+    "image": "img/xo_kitty.jpg",
+    "vid": "",
+    "p": "An unexpected reunion brings back old feelings.",
+    "year": 2007
+  },
+  {
+    "id": 34,
+    "name": "90s Forever",
+    "image": "img/90s_show.jpg",
+    "vid": "",
+    "p": "The ultimate throwback celebration of the decade.",
+    "year": 1992
+  },
+  {
+    "id": 35,
+    "name": "Final Chapter",
+    "image": "img/all_of_us.jpg",
+    "vid": "",
+    "p": "A gripping end to a long-running family saga.",
+    "year": 2011
+  },
+  {
+    "id": 36,
+    "name": "Skate Life",
+    "image": "img/boarders.jpg",
+    "vid": "",
+    "p": "The highs and lows of life in the skating world.",
+    "year": 2014
+  },
+  {
+    "id": 37,
+    "name": "The Last Voyage",
+    "image": "img/far_from_home.jpg",
+    "vid": "",
+    "p": "A dangerous sea mission leads to self-discovery.",
+    "year": 2002
+  },
+  {
+    "id": 38,
+    "name": "Dear Kitty Always",
+    "image": "img/xo_kitty.jpg",
+    "vid": "",
+    "p": "A love story that stands the test of time.",
+    "year": 2021
+  },
+  {
+    "id": 39,
+    "name": "90s Mix Tape",
+    "image": "img/90s_show.jpg",
+    "vid": "",
+    "p": "A nostalgic soundtrack to the best days of youth.",
+    "year": 1994
+  }
+]

@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow: hidden;
+    background: url('./img/q_And_kitty.jpg') no-repeat center  fixed;
+    background-size: cover;
+}
+
+main{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.847)50%, transparent);
+}
+
+
+#inner-main{
+    width: 40%;
+    /* background-color: white; */
+    color: black;
+    height: 100%;
+    padding: 3%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 5vh;
+}
+
+#movie_dets{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+    color: pink;
+    color: white;
+}
+
+#inner-main #opinion{
+    color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 3vh;
+    align-items: center;
+    padding-inline: 3% ;
+}
+
+
+
+
+#inner-main #control_panel{
+    color: pink;
+    width: 150%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    gap: 2vh;
+}
+
+#inner-main #control_panel  button{
+    width: 100%;
+    color: pink;
+    height: 5vh;
+    color: white;
+    border: none;
+    border-radius: 0.2rem;
+    cursor: pointer;
+    text-align: left;
+    padding-inline: 7%;
+    background: transparent;
+}
+
+#inner-main #control_panel  button:hover{
+    background-color: white;
+    color: black;
+    
+    
+    }
+
+#inner-main #control_panel  button:active{
+    background-color: rgba(255, 255, 255, 0.24);
+    color: white;
+    
+    
+    }
+
+
+
+
+#loader{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#loading{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border-top-color: rgb(133, 12, 12);
+    animation: spin 1s linear infinite;
+}
+
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+
+

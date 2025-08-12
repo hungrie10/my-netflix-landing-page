@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background: black;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+header{
+    width: 100%;
+    height: 100vh;
+    background: url('./public/many_movies_in_one.jpeg') ;
+    position: relative;
+}
+
+#inner-header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.726);
+}
+
+
+#inner-header  nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10%;
+    /* background: rgba(0, 0, 0, 0.605); */
+    color: aliceblue;
+}
+
+
+#inner-header  nav #inner-nav{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    font-family: sans-serif;
+}
+
+#inner-header  nav #inner-nav #title{
+    color: rgb(205, 0, 0);
+    width: 50%;
+    /* font-size: inherit; */
+}
+
+
+#inner-header  nav #inner-nav #sign_in{
+    width: 10%;
+    border:  none;
+    padding: 1%;
+    background-color: red;
+    border-radius: 0.2rem;
+    color: white;
+}
+
+@media(max-width: 1000px){
+    #inner-header  nav #inner-nav #sign_in{
+        width: 20%;
+    }
+}
+
+
+#sec-1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#sec-1 button{
+    /* display: none; */
+    width: 15%;
+    height: 5%;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 0.2rem;
+}
+
+
+#sec-1 h1{
+    width: 55%;
+    font-size: 5vw;
+}
+
+@media(max-width: 1000px){
+  
+    #sec-1 button{
+        width: 40%;
+    }
+
+}
+
+
+main{
+    width: 100%;
+    height: 100%;
+    padding: 5%;
+    background-color: black;
+    
+}
+
+main section{
+    /* border: solid white; */
+    width: 100%;
+    display:  flex;
+    align-items: center;
+    justify-content: center;
+    height: 50rem;
+}
+
+
+main section #inner3 , #inner2{
+    display: flex;
+    width: 95%;
+    /* background-color: pink; */
+    height: 100%;display: flex;
+    justify-content: space-between;
+    align-items: center
+    ;
+    padding: 2%;
+}
+/* main section #inner2{ */
+
+main section #inner3 h1, #inner2 h1{
+    /* width: 10vw; */
+    font-size: 4vw;
+    color: white;
+    font-family: sans-serif;
+}
+
+main section #inner3 p, #inner2 p{
+    font-family: sans-serif;
+    color: white;
+}
+
+main section #inner3 button, #inner2 button{
+    width: 40%;
+    height: 2rem;
+    border: solid white ;
+    background-color: transparent;
+    color: white;
+    border-radius: 0.2rem;
+}
+
+@media (min-width: 1000px) {
+    main section #inner3 button, #inner2 button{
+        width: 20%;
+    }
+}
+
+
+#inner2{
+    
+    gap: 30vh;        
+        
+        
+
+}
+#inner2 button{width: 90%;}
